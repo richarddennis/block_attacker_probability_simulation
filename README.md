@@ -6,3 +6,8 @@ described at the end of the [bitcoin paper](https://bitcoin.org/bitcoin.pdf).
 Probability of success
 
 How many blocks can it be kept at
+
+
+sudo add-apt-repository ppa:octave/stable
+sudo apt-get update
+sudo apt-get install octave
