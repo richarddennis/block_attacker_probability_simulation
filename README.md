@@ -1,6 +1,8 @@
 A simple script to reproduce the attacker success probability simulations 
 described at the end of the [bitcoin paper](https://bitcoin.org/bitcoin.pdf).
 
-These simulations produce the figure below:
+0.1 - 0.9 % of hashing power
 
-![bitcoin simulation](figs/simulations.png)
+Probability of success
+
+How many blocks can it be kept at
